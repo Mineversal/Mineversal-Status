@@ -13,7 +13,7 @@
     "time": 160,
     "timeDay": 187,
     "timeWeek": 125,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 223,
     "timeDay": 217,
     "timeWeek": 212,
-    "timeMonth": 223,
+    "timeMonth": 221,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://mineversal.net",
     "icon": "https://icons.duckduckgo.com/ip3/mineversal.net.ico",
     "slug": "al-jazari-virtual-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 231,
-    "timeWeek": 279,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "time": 290,
+    "timeDay": 144,
+    "timeWeek": 251,
+    "timeMonth": 288,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "Votie",
@@ -67,7 +69,7 @@
     "time": 98,
     "timeDay": 118,
     "timeWeek": 111,
-    "timeMonth": 98,
+    "timeMonth": 99,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
