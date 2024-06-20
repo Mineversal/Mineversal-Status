@@ -40,18 +40,20 @@
     "url": "https://mineversal.net",
     "icon": "https://icons.duckduckgo.com/ip3/mineversal.net.ico",
     "slug": "al-jazari-virtual-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 219,
-    "timeWeek": 292,
-    "timeMonth": 278,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 293,
+    "timeDay": 440,
+    "timeWeek": 338,
+    "timeMonth": 294,
+    "timeYear": 293,
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Votie",
