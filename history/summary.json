@@ -40,11 +40,11 @@
     "url": "https://mineversal.net",
     "icon": "https://icons.duckduckgo.com/ip3/mineversal.net.ico",
     "slug": "al-jazari-virtual-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
     "timeDay": 307,
@@ -52,7 +52,7 @@
     "timeMonth": 302,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-01-29": 5
+      "2025-01-29": 0
     }
   },
   {
