@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 125,
-    "timeWeek": 166,
-    "timeMonth": 172,
+    "timeDay": 206,
+    "timeWeek": 180,
+    "timeMonth": 174,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 276,
-    "timeWeek": 229,
+    "timeDay": 249,
+    "timeWeek": 233,
     "timeMonth": 253,
     "timeYear": 254,
     "dailyMinutesDown": {}
@@ -42,18 +42,16 @@
     "slug": "al-jazari-virtual-assistant",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 302,
-    "timeWeek": 291,
-    "timeMonth": 330,
-    "timeYear": 309,
-    "dailyMinutesDown": {
-      "2025-02-10": 6
-    }
+    "time": 312,
+    "timeDay": 806,
+    "timeWeek": 407,
+    "timeMonth": 364,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Votie",
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 160,
-    "timeWeek": 132,
-    "timeMonth": 116,
+    "timeDay": 86,
+    "timeWeek": 131,
+    "timeMonth": 115,
     "timeYear": 114,
     "dailyMinutesDown": {}
   }
