@@ -58,19 +58,20 @@
     "url": "https://votie.mineversal.com",
     "icon": "https://icons.duckduckgo.com/ip3/votie.mineversal.com.ico",
     "slug": "votie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 119,
-    "timeDay": 122,
-    "timeWeek": 128,
-    "timeMonth": 134,
+    "timeDay": 143,
+    "timeWeek": 134,
+    "timeMonth": 136,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-29": 39,
+      "2025-04-28": 5
     }
   }
 ]
